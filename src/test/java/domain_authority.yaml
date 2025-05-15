@@ -5,7 +5,6 @@ dev:
 hml:
   envDataSource: "hml"
   urlEndpoint: "https://reqres.in"
-  urlPoc: "http://homolog-barramento.autopass.com.br:8880"
   
 prd:
   envDataSource: "prd"
